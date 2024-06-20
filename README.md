@@ -6,10 +6,7 @@ This Python script demonstrates web scraping from Coindesk and Blockworks websit
 
 - [Overview](#overview)
 - [Requirements](#requirements)
-- [Setup](#setup)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [License](#license)
+
 
 ## Overview
 
