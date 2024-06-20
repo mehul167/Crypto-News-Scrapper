@@ -1,4 +1,4 @@
-# Web Scraping and MongoDB Integration
+# Crypto News Scrapper
 
 This Python script demonstrates web scraping from Coindesk and Blockworks websites and stores the scraped data into a MongoDB database.
 
