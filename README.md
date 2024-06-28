@@ -10,7 +10,7 @@ This Python script demonstrates web scraping from Coindesk and Blockworks websit
 
 ## Overview
 
-The script `main.py` scrapes data from two websites:
+The script `scrapper.py` scrapes data from two websites:
 - [Coindesk](https://www.coindesk.com/)
 - [Blockworks](https://blockworks.co/)
 
